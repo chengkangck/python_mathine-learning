@@ -1,18 +1,3 @@
-
-#### 1. 官方原始链接：  
-1).  来自中国慕课大学,登录官网查看原始资源：  
-[北京理工大学《Python机器学习应用》](http://www.icourse163.org/course/BIT-1001872001)
-
-2).  官方配套数据集下载地址：  
-[https://pan.baidu.com/s/1eR7doh8](https://pan.baidu.com/s/1eR7doh8)
-
-
-#### 2. 文件目录说明:  
-1). raw_materials/  \# 包含本课程的所有原始资料  
-2). studynotes/ \# 对所有代码进行了详尽注释(未完待续)
-
-#### 3. 项目列表和链接：共包含19个主题
-
 01. [k-means聚类-城市收入](https://github.com/bigablecat/biteduML/blob/master/studynotes/kmeans-city/kmeans_city.py) (路径: biteduML/studynotes/kmeans-city/kmeans_city.py)
 02. [DBSCAN聚类-上网时长](https://github.com/bigablecat/biteduML/blob/master/studynotes/dbscan-onlinetime/dbscan_onlinetime.py)(路径: biteduML/studynotes/dbscan-onlinetime/onlinetime.py)
 03. [降维PCA-鸢尾花](https://github.com/bigablecat/biteduML/blob/master/studynotes/pca-iris/pca_iris.py)(路径: biteduML/studynotes/pca-iris/pca-iris.py)
